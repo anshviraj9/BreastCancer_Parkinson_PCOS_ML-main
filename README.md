@@ -2,7 +2,7 @@
 
 This project focuses on applying a genetic algorithm to optimize machine learning models for detecting a disease:
 
-1. **Breast Cancer**
+**Breast Cancer**
 
 
 ## Datasets
